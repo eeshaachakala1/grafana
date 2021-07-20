@@ -29,7 +29,7 @@ properties:
     PROM_URL: http://prometheus-2-17:9090/
     GF_AUTH_GENERIC_OAUTH_ENABLED: true
     GF_AUTH_GENERIC_OAUTH_NAME: AppZ 
-    GF_AUTH_GENERIC_OAUTH_CLIENT_ID: grafana
+    GF_AUTH_GENERIC_OAUTH_CLIENT_ID: graf
     GF_AUTH_GENERIC_OAUTH_CLIENT_SECRET: someSuperSecret
     GF_AUTH_GENERIC_OAUTH_SCOPES: openid profile email  
     GF_AUTH_GENERIC_OAUTH_AUTH_URL: https://appz.32d430c5.lowtouch.cloud/openid/authorize 
